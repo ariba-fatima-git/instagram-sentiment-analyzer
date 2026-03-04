@@ -1,0 +1,12 @@
+pandas
+numpy
+emoji
+nltk
+scikit-learn
+transformers
+torch
+matplotlib
+wordcloud
+streamlit
+plotly
+openpyxl
